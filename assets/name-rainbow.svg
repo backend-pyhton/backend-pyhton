@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="170" viewBox="0 0 1100 170" role="img" aria-label="Muhammadzohid Zohidov animated rainbow glowing name">
+<defs>
+<linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ff3b9d"><animate attributeName="stop-color" values="#ff3b9d;#00e5ff;#ffe34f;#8b5cf6;#ff3b9d" dur="5s" repeatCount="indefinite"/></stop>
+<stop offset="33%" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#ffe34f;#ff3b9d;#39ff88;#00e5ff" dur="5s" repeatCount="indefinite"/></stop>
+<stop offset="67%" stop-color="#ffe34f"><animate attributeName="stop-color" values="#ffe34f;#8b5cf6;#39ff88;#00e5ff;#ffe34f" dur="5s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#8b5cf6"><animate attributeName="stop-color" values="#8b5cf6;#ff3b9d;#00e5ff;#ffe34f;#8b5cf6" dur="5s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<filter id="glow" x="-25%" y="-60%" width="150%" height="220%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<text x="550" y="103" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="65" fill="url(#rainbow)" opacity=".65" filter="url(#glow)">Muhammadzohid Zohidov<animate attributeName="opacity" values=".48;1;.48" dur="2.2s" repeatCount="indefinite"/></text>
+<text x="550" y="103" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="65" fill="url(#rainbow)">Muhammadzohid Zohidov</text>
+<text x="550" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="5" fill="#bac8ff">KEEP LEARNING • KEEP BUILDING • KEEP GROWING</text>
+</svg>
