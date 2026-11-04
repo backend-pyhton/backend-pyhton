@@ -57,4 +57,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=backend-pyhton&style=for-the-badge&color=7c3aed)
 
+
+### 💜 Muhammadzohid Zohidov
+
+**Made with ❤️ by Muhammadzohid Zohidov**
+
 </div>
