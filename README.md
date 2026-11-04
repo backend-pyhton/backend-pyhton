@@ -58,7 +58,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=backend-pyhton&style=for-the-badge&color=7c3aed)
 
 
-### 💜 Muhammadzohid Zohidov
+<img src="./assets/name-rainbow.svg" width="100%" alt="Muhammadzohid Zohidov — animated rainbow name" />
 
 **Made with ❤️ by Muhammadzohid Zohidov**
 
