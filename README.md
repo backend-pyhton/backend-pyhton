@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Zohid Zohidov!
+# 👋 Hi, I'm Muhammadzohid Zohidov!
 
 ### 💻 Backend Developer in Progress · 🐍 Python Enthusiast · 🚀 Lifelong Learner
 
